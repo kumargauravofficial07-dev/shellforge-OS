@@ -1,0 +1,6 @@
+/shellforge
+*.o
+*.save
+*~
+.vscode/
+.idea/
